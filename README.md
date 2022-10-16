@@ -14,12 +14,12 @@ Instant-django has a sample model and basic CRUD views.
 
 You can complete a simple CRUD WebApp with a few edits and commands.
 
-## Requirement ※最新版に変更
+## Requirement ※Updated
 
 ```
-Django==~2.1.1~ 3.2.10
-django-crispy-forms==~1.7.2~ 1.14.0
-django-filter==~2.0.0~ 22.1
+Django==~~2.1.1~~ 3.2.10
+django-crispy-forms==~~1.7.2~~ 1.14.0
+django-filter==~~2.0.0~~ 22.1
 pytz==2018.5
 ```
 
