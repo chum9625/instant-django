@@ -1,4 +1,6 @@
-instant-django
+記事が古い（更新日2018/9/28）ため、要所でUpdate対応の必要性あり。参考にしてカスタム前提とする。
+
+# instant-django
 ====
 
 簡単なCRUD操作を行うDjangoのアプリケーションです。
